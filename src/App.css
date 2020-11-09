@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  background-color: lightblue;
+  border: 1px solid black;
+  margin-top: 100px;
+  margin-left: 80px;
+  /* flex-wrap: wrap; */
+  width: 300px;
 }
 
 .App-logo {
@@ -10,6 +16,7 @@
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
+    /* animation: alternate-reverse; */
   }
 }
 
