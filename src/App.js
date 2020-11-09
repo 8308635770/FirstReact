@@ -15,6 +15,7 @@ class App extends Component{
       <div className="App">
         <p >This is Header</p>
         <Person/>
+        <p>SHIVAM</p>
       </div>
     
     )
